@@ -1,6 +1,8 @@
 Agner
 =====
 
+[![Join the chat at https://gitter.im/agner/agner](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/agner/agner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Agner is a rebar-friendly Erlang package index inspired by Clojars and
 Homebrew.
 
